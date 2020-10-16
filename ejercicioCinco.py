@@ -3,4 +3,4 @@ distanciaSolMarte = int(227943824)
 
 tiempo = distanciaSolMarte/velocidadLuz
 
-print("la luz del sol a marte tarda 0:",tiempo, "segundos")
+print(f"la luz del sol a marte tarda : {tiempo} segundos")

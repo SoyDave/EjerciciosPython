@@ -3,4 +3,4 @@ altura = float(input("Ingrese la Altura: "))
 
 area = (base*altura)/2
 
-print ("El area es: ", area)
+print (f"El area es: {area}")
